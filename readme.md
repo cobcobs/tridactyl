@@ -19,6 +19,7 @@
 
 ## Gallery
 
+Note: the dark theme colors are only inconsistent when explicitly setting Firefox to the dark theme (not sure how to fix this)
 ![Rosé Pine](assets/rose-pine.png)
 ![Rosé Pine Moon](assets/rose-pine-moon.png)
 ![Rosé Pine Dawn](assets/rose-pine-dawn.png)
@@ -26,3 +27,4 @@
 ## Thanks to
 
 - [cobcobs](https://github.com/cobcobs)
+- [base16-tridactyl repo](https://github.com/bezmi/base16-tridactyl)
